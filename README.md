@@ -8,7 +8,7 @@ Coleta Info de IP, as insformações coletadas são:
 - Provedor
 
 ```bash
-git clone https://github.com/Freitasrgx/infoip
+git clone https://github.com/IsraelAndrey/infoip
 cd infoip
 python3 infoip.py
 ```
